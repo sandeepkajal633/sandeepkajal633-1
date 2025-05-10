@@ -18,7 +18,7 @@ Education
 Work Experience
 ======
 * 2017-2018: Chegg India
-  * Worked as Q & A Expertin Mathematics
+  * Worked as Q & A Expert in Mathematics
 
 * 2015-2016: Study Smart Coaching Institute
   * Taught students Mathematics

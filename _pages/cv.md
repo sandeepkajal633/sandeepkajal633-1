@@ -11,35 +11,55 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistical Control Control in  QROR, Indian Statistical Institute, 2019-2025 (expected)
+* M.Sc. in Mathematics, Central University of Haryana, 2016-2018
+* B.Sc. in Physical Sciences, Delhi University, 2012-2015
 
-Work experience
+Work Experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2017-2018: Chegg India
+  * Worked as Q & A Expertin Mathematics
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2015-2016: Study Smart Coaching Institute
+  * Taught students Mathematics
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
+Projects
+=====
+* 2018-2019: Junior Research Fellow
+  * Title: Study of Quantile Based Information Theoretic Measures on Order and Record Statistics
+  * M.D. University, Rohtak, Haryana, India
+  * Duties Included: Teaching, Research
+  * Supervisor: Prof. Vikas Kumar
+
+  * 2018-2019: M.Sc. Student
+  * Title: Polynomial Invariants
+  * Central University of Haryana, Mahendergarh, Haryana, India
+  * Supervisor: Prof. Vikas Siwach
+
+Achievements
+=====
+
+* NET 
+  * Qualified Net with Score - 92 and Rank - 49 in June 2017 in Mathematical Sciences
+  * Qualified Net With Score - 89.75 and Rank - 76 in Dec 2019 in Mathematical Sciences
+  * Qualified Net With Score - 94.75 and Rank - 92 in June 2020 in Mathematical Sciences
+
+* ISI JRF Entrance (QROR)
+  *Rank 1 held in 2019
+
+* Coursera
+  * Successfully completed Calculus One with a grade of 97.03%. A course offered by the Ohio State University on Coursera to prove a basic understanding of Calculus.
+  * Successfully completed Calculus: Single Variable Part 1 - Functions with a grade of 88.99%. A course offered by the University of Pennsylvania on Coursera to prove a basic understanding of Calculus.
+  * Successfully completed Calculus: Single Variable Part 2 - Differentiation with a grade of 100%. A course offered by the University of Pennsylvania on Coursera to prove a basic understanding of Calculus.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Mathematica
+* MS Office
+* Latex
+* Python
+* Optimization Techniques (Single and Multi-objective Optimization)
+* Economic Design of Control Charts
 
 Publications
 ======

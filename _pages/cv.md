@@ -31,7 +31,7 @@ Projects
   * Duties Included: Teaching, Research
   * Supervisor: Prof. Vikas Kumar
 
-  * 2018-2019: M.Sc. Student
+* 2018-2019: M.Sc. Student
   * Title: Polynomial Invariants
   * Central University of Haryana, Mahendergarh, Haryana, India
   * Supervisor: Prof. Vikas Siwach

@@ -80,12 +80,12 @@ Teaching
   
 Extracurricular Activities
 =====
-* Member of RS Hostel Mess Committee at the Indian Statistical Institute from 2022 to 2025.
-* Sports Secretary of RS Hostel at the Indian Statistical Institute from 2022 to 2025.
+* Member of RS Hostel Mess Committee at the Indian Statistical Institute from 2021 to 2025.
+* Sports Secretary of RS Hostel at the Indian Statistical Institute from 2021 to 2025.
 * Member of the runner-up cricket team. The games were organized by the Indian Statistical Institute Sports Club in the year 2025.
 * Won several prizes in Hindi Pakhwada organized by the Indian Statistical Institute during 2022-2024.
 * Captain of the runner-up volleyball team. The games were organized by the Indian Statistical Institute Sports Club in the year 2022.
-* Caption of winning teams in sports (Cricket \& Tug of War) organized by the Central University of Haryana in 2017.
+* Caption of winning teams in sports (Cricket & Tug of War) organized by the Central University of Haryana in 2017.
 *  Helped in successfully organizing the debate program named Abhivyanjana as a Volunteer at the Motilal Nehru College, University of Delhi in 2015.
 * Secured First position in 8th Annual Quiz Competition organized by the University of Delhi in 2014.
 * Participated in district-level Science Exhibition organized by the Department of Education, Hisar, Haryana in 2010.

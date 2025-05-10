@@ -45,7 +45,7 @@ Achievements
   * Qualified Net With Score - 94.75 and Rank - 92 in June 2020 in Mathematical Sciences
 
 * ISI JRF Entrance (QROR)
-  *Rank 1 held in 2019
+  * Rank 1 held in 2019
 
 * Coursera
   * Successfully completed Calculus One with a grade of 97.03%. A course offered by the Ohio State University on Coursera to prove a basic understanding of Calculus.

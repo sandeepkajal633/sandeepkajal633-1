@@ -2,7 +2,7 @@
 title: "Evolving parameters of Shewhart’s X̄ chart from present-day industrial engineering perspective"
 collection: publications
 category: manuscripts
-permalink: /publication/Evolving parameters of Shewhart’s $\bar{X}$ chart from present-day industrial engineering perspective
+permalink: /publication/Evolving parameters of Shewhart’s $\bar{X}$ chart from present-day industrial engineering perspective/
 excerpt: 'Sandeep, Arup Ranjan Mukhopadhyay'
 date: 2025-01-06
 venue: 'Communications in Statistics - Theory and Methods'
